@@ -54,4 +54,6 @@ An ongoing experiment in personal AI, automation and intelligent systems.
 
 <sub>© 2026 ZEINXA · SOMEWHERE ON THE INTERNET</sub>
 
+</div><div align="center">
+  <img src="banner.png" width="100%" />
 </div>
