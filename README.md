@@ -1,12 +1,13 @@
+
 <div align="center">
-  <img src="banner.png" width="100%" />
-</div>
+
+<img src="Banner.png" width="100%" />
+
+<br><br>
 
 # Zeinxa.
 
 `DEVELOPER` · `CREATIVE MIND` · `TECHNOLOGY`
-
-<br>
 
 ### Somewhere between logic and imagination.
 
@@ -24,14 +25,11 @@ Gosto de criar, experimentar e transformar ideias em projetos reais.
 
 ### 02 / Interests
 
-- Artificial Intelligence
-- Software Development
-- Automation
-- Creative Technology
+`Artificial Intelligence` · `Software Development` · `Automation` · `Creative Technology`
 
 ### 03 / Selected work
 
-**idonthaveonthismoment](xxx)**
+**[PLUTO](https://github.com/Zeinxaa/Pluto-Personal)**
 
 An ongoing experiment in personal AI, automation and intelligent systems.
 
@@ -47,11 +45,7 @@ An ongoing experiment in personal AI, automation and intelligent systems.
 
 *"Not everything needs to be seen."*
 
-<br>
-
 `BUILD QUIETLY. THINK DEEPLY.`
-
-<br>
 
 <sub>© 2026 ZEINXA · SOMEWHERE ON THE INTERNET</sub>
 
