@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# zeinxa.
+# Zeinxa.
 
 `DEVELOPER` · `CREATIVE MIND` · `TECHNOLOGY`
 
