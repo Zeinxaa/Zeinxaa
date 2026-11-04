@@ -5,7 +5,7 @@
 
 <br><br>
 
-# Zeinxa.
+# zeinxa.
 
 `DEVELOPER` · `CREATIVE MIND` · `TECHNOLOGY`
 
