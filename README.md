@@ -30,7 +30,7 @@ Gosto de criar, experimentar e transformar ideias em projetos reais.
 
 ### 03 / Selected work
 
-**[PLUTO](https://github.com/Zeinxaa/Pluto-Personal)**
+**idonthaveonthismoment](xxx)**
 
 An ongoing experiment in personal AI, automation and intelligent systems.
 
@@ -54,6 +54,4 @@ An ongoing experiment in personal AI, automation and intelligent systems.
 
 <sub>© 2026 ZEINXA · SOMEWHERE ON THE INTERNET</sub>
 
-</div><div align="center">
-  <img src="banner.png" width="100%" />
 </div>
